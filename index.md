@@ -1,10 +1,14 @@
-## Cara download
+## Download Bahan Ajar
 
-Klik tombol download dalam bentuk .zip atau .tar.gz
+Klik tombol download dalam bentuk .zip atau .tar.
+
+## Source
+
+Semua bahan ajar bisa didapatkan dari [studentv2 | https://studentv2.bsi.ac.id/mahasiswa/jadwal-kuliah](https://studentv2.bsi.ac.id/mahasiswa/jadwal-kuliah)
 
 ## Release
 
-[Download Release](https://github.com/Aridho1/bahan-ajar--semester-2--FTI--Informatika/releases)
+[List Release](https://github.com/Aridho1/bahan-ajar--semester-2--FTI--Informatika/releases)
 
 ## Install
 
