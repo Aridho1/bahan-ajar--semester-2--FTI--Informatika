@@ -1,5 +1,5 @@
 ---
-title: Bahan Ajar Semester 2
+title: -
 ---
 
 ## Download Bahan Ajar
