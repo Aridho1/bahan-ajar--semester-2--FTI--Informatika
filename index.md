@@ -4,7 +4,9 @@ Klik tombol download dalam bentuk .zip atau .tar.
 
 ## Source
 
-Semua bahan ajar bisa didapatkan dari [studentv2 | https://studentv2.bsi.ac.id/mahasiswa/jadwal-kuliah](https://studentv2.bsi.ac.id/mahasiswa/jadwal-kuliah)
+Semua bahan ajar bisa didapatkan dari:
+
+<a href="https://studentv2.bsi.ac.id/mahasiswa/jadwal-kuliah" target="_blank" rel="noopener noreferrer">studentv2 - https://studentv2.bsi.ac.id/mahasiswa/jadwal-kuliah</a>
 
 ## Release
 
