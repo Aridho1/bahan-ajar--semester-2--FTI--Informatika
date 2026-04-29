@@ -1,3 +1,7 @@
+---
+title: Bahan Ajar -- Semester 2 -- FTI Informatika
+---
+
 ## Download Bahan Ajar
 
 Klik tombol download dalam bentuk .zip atau .tar.
