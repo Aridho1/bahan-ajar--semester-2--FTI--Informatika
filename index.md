@@ -1,12 +1,13 @@
-# Halo
+## Cara download
 
-Ini halaman install project ku.
+Klik tombol download dalam bentuk .zip atau .tar.gz
 
-## Download
+## Release
 
-[Download Release](https://github.com/USERNAME/REPO/releases)
+[Download Release](https://github.com/Aridho1/bahan-ajar--semester-2--FTI--Informatika/releases)
 
 ## Install
 
 ```bash
-git clone https://github.com/USERNAME/REPO.git
+git clone https://github.com/Aridho1/bahan-ajar--semester-2--FTI--Informatika.git
+```
